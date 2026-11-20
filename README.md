@@ -1,4 +1,4 @@
 ## Welcome to Verry Vett! 👋
 
-## TECH STACK 
-Frontend: HTML, CSS
+<h2> TECH STACK </h2>
+<p> <b> Frontend: </b> HTML, CSS </p>
